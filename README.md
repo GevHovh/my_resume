@@ -35,6 +35,14 @@ You can find original data [here](https://www.kaggle.com/rounakbanik/the-movies-
 
 <br>
 
+## Data visualization
+
+Simple(or not) data visualizations without context.
+
+> DataVis.ipnb - Data visualization.
+
+<br>
+
 ## Contacts:
 
 - E-mail - gevorghovhannisyan13@gmail.com
