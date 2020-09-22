@@ -2,6 +2,14 @@
 
 <br>
 
+## Data science project's full pipeline
+
+With this notebook I combined all techniques and methodes I learned in past 6 months, since I have started to learn Data Science. Of course, most of what I studied is math, which I cann't show here, but I tried to implement that math in comments to the code.
+
+> Data science project's full pipeline.ipynb - Jupyter Notebook file.
+
+<br>
+
 ## Big Five Personality Test, Exploratory analysis
 
 Since I am recently interested in ['Big Five personality traits'](https://en.wikipedia.org/wiki/Big_Five_personality_traits) theory, 
@@ -31,7 +39,7 @@ You can find original data [here](https://www.kaggle.com/rounakbanik/the-movies-
 
 > Movies ETL.ipynb - Data manipulation phase.<br>
 > EDA_data.csv - Data ready for Exploratory analysis.<br>
-> Movies EDA.ipnb - Exploratory data analysis<br>
+> Movies EDA.ipnb - Exploratory data analysis.<br>
 
 <br>
 
