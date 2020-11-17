@@ -20,18 +20,6 @@ This notebook is my playground, where I am trying to find interesting insights b
 
 <br>
 
-## House Prices: data
-
-This four notebooks are part of one big 'project', where I am trying to build a model which can lead me to 50 percentile of that competition.<br>
-You can find House Prices competition [here](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
-
-> House Prices data part 1.ipynb - All data with first 20 features.<br>
-> House Prices data part 2.ipynb - All data with second 20 features.<br>
-> House Prices data part 3.ipynb - All data with third 20 features.<br>
-> House Prices data part 4.ipynb - All data with last 20 features.<br>
-
-<br>
-
 ## Movies dataset
 
 With this dataset I wanted to get experience in data manipulation and Exploratory data analysis.<br>
