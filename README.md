@@ -10,9 +10,9 @@ For the past 3 months, I have worked on several computer vision tasks and also h
 
 I started with the "HelloWorld" of computer vision DogsVsCats classification. Some time after I returned to this task and applied transfer learning.
 
-> DogsVsCats(preprocessing).ipynb - Preprocessing of image data.
-> DogsVsCats(Net).ipynb. - Network establishing and predictions.
-> DogsVsCats(Vgg-19) - Fine-tuned vgg-19 for this classification task.
+> DogsVsCats(preprocessing).ipynb - Preprocessing of image data.<br>
+> DogsVsCats(Net).ipynb. - Network establishing and predictions.<br>
+> DogsVsCats(Vgg-19) - Fine-tuned vgg-19 for this classification task.<br>
 
 <br>
 
@@ -28,7 +28,7 @@ Then I moved to multi-label classification and found this dataset in Kaggle, wit
 
 I applied for a junior ml engineer job in some company and as a part of the selection process they sent me this assignment. For more details pls visit [Kaggle page](https://www.kaggle.com/c/freesound-audio-tagging-2019).
 
-> Data preprocessing.ipynb - Preprocessing of wav data.
+> Data preprocessing.ipynb - Preprocessing of wav data.<br>
 > Net.ipynb. - Network establishing and predictions.
 
 <br>
