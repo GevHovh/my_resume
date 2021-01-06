@@ -2,9 +2,44 @@
 
 <br>
 
-## Data science project's full pipeline
+## Deep learning
 
-With this notebook I combined all techniques and methodes I learned in past 6 months, since I have started to learn Data Science. Of course, most of what I studied is math, which I cann't show here, but I tried to implement that math in comments to the code.
+For the past 3 months, I have worked on several computer vision tasks and also had some experience with signal processing.
+
+### DogsVsCats
+
+I started with the "HelloWorld" of computer vision DogsVsCats classification. Some time after I returned to this task and applied transfer learning.
+
+> DogsVsCats(preprocessing).ipynb - Preprocessing of image data.
+> DogsVsCats(Net).ipynb. - Network establishing and predictions.
+> DogsVsCats(Vgg-19) - Fine-tuned vgg-19 for this classification task.
+
+<br>
+
+### Facial Expression Recognition
+
+Then I moved to multi-label classification and found this dataset in Kaggle, with 28000 images(50x50 grayscale).
+
+> Facial_Expression_Recognition.ipynb
+
+<br>
+
+### Digital signal classification
+
+I applied for a junior ml engineer job in some company and as a part of the selection process they sent me this assignment. For more details pls visit [Kaggle page](https://www.kaggle.com/c/freesound-audio-tagging-2019).
+
+> Data preprocessing.ipynb - Preprocessing of wav data.
+> Net.ipynb. - Network establishing and predictions.
+
+<br>
+
+## Old machine learning projects
+
+Pls note, that this notebooks were written several months ago and sinecne then my codding skills have improved significantly.
+
+### Data science project's full pipeline
+
+With this notebook I combined all techniques and methodes I learned in past 6 months(up to September 2020), since I have started to learn Data Science. Of course, most of what I studied is math, which I cann't show here, but I tried to implement that math in comments to the code.
 
 > Data science project's full pipeline.ipynb - Jupyter Notebook file.
 
