@@ -1,8 +1,8 @@
-# Description
+# <b>Description</b>
 
 <br>
 
-## Deep learning
+## <b>Deep learning</b>
 
 For the past 3 months, I have worked on several computer vision tasks and also had some experience with signal processing.
 
@@ -33,7 +33,7 @@ I applied for a junior ml engineer job in some company and as a part of the sele
 
 <br>
 
-## Old machine learning projects
+## <b>Old machine learning projects</b>
 
 Pls note, that this notebooks were written several months ago and sinecne then my codding skills have improved significantly.
 
