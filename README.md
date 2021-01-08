@@ -44,7 +44,7 @@ I applied for a junior ml engineer job in some company and as a part of the sele
 
 ## <b>Old machine learning projects</b>
 
-Pls note, that this notebooks were written several months ago and sinecne then my codding skills have improved significantly.
+Pls note, that those notebooks were written several months ago and sinecne then my codding skills have improved significantly.
 
 ### Data science project's full pipeline
 
