@@ -11,7 +11,9 @@ For the past 3 months, I have worked on several computer vision tasks and also h
 My latest pet project where I am trying to solve single object detection problem using "Pascal VOC 2012" dataset.
 I decided not to use R-CNN or YOLO and try to design network from half scratch using only VGG as feature extractor.<br>
 
-> Single_object_detection_from_half_scratch.ipynb - Jupyter Notebook file.<br>
+> Single_object_detection_from_half_scratch.ipynb - Jupyter Notebook file.
+
+<br>
 
 ### DogsVsCats
 
