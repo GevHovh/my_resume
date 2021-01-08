@@ -21,7 +21,7 @@ I started with the "HelloWorld" of computer vision DogsVsCats classification. So
 
 > DogsVsCats(preprocessing).ipynb - Preprocessing of image data.<br>
 > DogsVsCats(Net).ipynb. - Network establishing and predictions.<br>
-> DogsVsCats(Vgg-19) - Fine-tuned vgg-19 for this classification task.<br>
+> DogsVsCats(Vgg-16) - Fine-tuned VGG-16 for this classification task.<br>
 
 <br>
 
